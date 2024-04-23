@@ -188,7 +188,7 @@ REF NO : 212222240063
   Lcd_cursor(&lcd, 0,0);
   Lcd_string(&lcd,"AIML");
   Lcd_cursor(&lcd, 1,0);
-  Lcd_string(&lcd,"CHARUMATHI");
+  Lcd_string(&lcd,"MATHI");
 
 ```
 
